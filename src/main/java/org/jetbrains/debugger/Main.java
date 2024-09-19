@@ -1,4 +1,4 @@
-package com.calculator.stockbot.robot;
+package org.jetbrains.debugger;
 
 public class Main {
     public static void main(String[] args) {
